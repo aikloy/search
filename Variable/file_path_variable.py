@@ -1,0 +1,5 @@
+DICTIONARY_FILENAME = "dictionary.json"
+TERM_FREQUENCY_FILENAME = "term_frequency.json"
+DOCUMENT_FREQUENCY_FILENAME = "document_frequency.json"
+BM25_MATRIX_FILENAME = "BM25_matrix.json"
+SAVE_DIRECTORY = "save"
